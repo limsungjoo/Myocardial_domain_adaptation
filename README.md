@@ -16,7 +16,6 @@ The following models have been developed and the results of the models were comp
 * CUDA version: 12.0
 * Python: 3.8.8
 ## Reg GAN
-  
 
 #### Results    
 ![color](https://user-images.githubusercontent.com/48985628/222369349-54c56de9-f2b6-46a0-972d-6c33e3783c52.png)
@@ -24,16 +23,22 @@ The following models have been developed and the results of the models were comp
 
 ## Diffusion models
 
-#### Model Architecture   
-
-
 #### Results
+![diffusion](https://user-images.githubusercontent.com/48985628/222371309-571529b0-f74b-4c22-a111-83a45d1ad9cd.png)
 
 
 ## Swin-CycleGAN
- 
+
+#### Results
+![gray_swin](https://user-images.githubusercontent.com/48985628/222370782-be7dca3d-2084-48b3-9cd7-928e1b13fb98.png)
+
 
 ## Modified U-Net
+#### Results
+![color_unet](https://user-images.githubusercontent.com/48985628/222371827-77b18821-d6b6-4c5b-bbde-24cd10192f5a.png)
+
+#### Results
+![gray_unet](https://user-images.githubusercontent.com/48985628/222370282-0ffc2db7-b7ed-45ad-bb93-5b1ebb163981.png)
 
 
 ## Experiments
