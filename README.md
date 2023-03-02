@@ -19,16 +19,16 @@ The following models have been developed and the results of the models were comp
 ## Diffusion models
 
 #### Model Architecture   
-![image](https://user-images.githubusercontent.com/48985628/187608509-aad9af10-031e-4bb0-a575-77b6f3144bca.png)
+![image]()
 
 #### Results
-<img src="https://user-images.githubusercontent.com/48985628/187634962-8abf4d0e-ad12-4824-af75-d2c513fc611b.png" width="600" height="600"/>
+<img src="" width="600" height="600"/>
 
 ## Reg GAN
   
 
 #### Results    
-![image](https://user-images.githubusercontent.com/48985628/187630961-d99647b8-3fd3-4044-9297-a5c4675899cf.png)
+![image]()
 
 ## Swin-CycleGAN
  
