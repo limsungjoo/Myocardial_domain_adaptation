@@ -3,8 +3,8 @@ Myocardial Domain Adaptation
 I have studied various methods to solve domain adaptation for Myocardial 3D images.
 The following models have been developed and the results of the models were compared.      
 * [Requirements](#requirements)
-* [Diffusion models](#diffusion-models)
 * [Reg GAN](#reg-gan)
+* [Diffusion models](#diffusion-models)
 * [Swin-CycleGAN](#swin-cyclegan)
 * [Modified U-Net](#modified-u-net)
 * [Experiments](#experiments)
@@ -15,20 +15,20 @@ The following models have been developed and the results of the models were comp
 * torchvision: 0.11.3+cu113
 * CUDA version: 12.0
 * Python: 3.8.8
-
-## Diffusion models
-
-#### Model Architecture   
-![image]()
-
-#### Results
-<img src="" width="600" height="600"/>
-
 ## Reg GAN
   
 
 #### Results    
-![image]()
+![color](https://user-images.githubusercontent.com/48985628/222369349-54c56de9-f2b6-46a0-972d-6c33e3783c52.png)
+
+
+## Diffusion models
+
+#### Model Architecture   
+
+
+#### Results
+
 
 ## Swin-CycleGAN
  
