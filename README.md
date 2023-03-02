@@ -18,7 +18,8 @@ The following models have been developed and the results of the models were comp
 ## Reg GAN
 
 #### Results    
-![color](https://user-images.githubusercontent.com/48985628/222369349-54c56de9-f2b6-46a0-972d-6c33e3783c52.png)
+![color](https://user-images.githubusercontent.com/48985628/222372702-295cdecc-a9c8-4cd0-8714-7d68d95e45b1.png)
+
 
 
 ## Diffusion models
@@ -35,7 +36,7 @@ The following models have been developed and the results of the models were comp
 
 ## Modified U-Net
 #### Results
-![color_unet](https://user-images.githubusercontent.com/48985628/222371827-77b18821-d6b6-4c5b-bbde-24cd10192f5a.png)
+![color_unet](https://user-images.githubusercontent.com/48985628/222372728-d6be25b7-8af9-4128-aaf6-358ce71d63c5.png)
 
 #### Results
 ![gray_unet](https://user-images.githubusercontent.com/48985628/222370282-0ffc2db7-b7ed-45ad-bb93-5b1ebb163981.png)
