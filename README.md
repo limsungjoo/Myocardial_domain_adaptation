@@ -2,6 +2,7 @@ Myocardial Domain Adaptation
 =====================
 I have studied various methods to solve domain adaptation for Myocardial 3D images.
 The following models have been developed and the results of the models were compared.   
+Submitted for a paper titled "Clinical Feasibility of Deep Learning-based Attenuation Correction Models for 201Tl-Myocardial Perfusion Single-Photon Emission Computed Tomography"
 ![ajou](https://github.com/limsungjoo/Myocardial_domain_adaptation/assets/48985628/2277866b-a39b-4656-8edb-c6d69c0f291c)
 
 * [Requirements](#requirements)
